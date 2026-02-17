@@ -19,7 +19,7 @@ This repos is using pre-trained weights that need to be download and store in th
 
 ## How to use the code - some example
 
-We present here, some examples of use of the code. Please note that the hyperparameters are not hard-coding in this repos. Please refer to Table 1 in the paper for the suggested hyperparameters choices.
+We present here, some examples of use of the code. Please note that the hyperparameters are not hard-coding in this repos. Please refer to Table 3 in the paper for the suggested hyperparameters choices.
 
 In order, to run the standard RED-GM algorithm on deblurring run
 ```
