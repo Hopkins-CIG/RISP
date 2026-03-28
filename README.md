@@ -2,6 +2,8 @@
 
 This repos contains the code associated with the paper "Provably Accelerated Imaging with Restarted Inertia and Score-based image priors" accepted by ICLR 2026.
 
+paper: https://arxiv.org/pdf/2510.07470
+
 ## Prerequisites - setting the environment
 
 To create a conda environment with the correct dependency to use the code, run in your terminal 
